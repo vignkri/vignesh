@@ -1,3 +1,23 @@
-baseURL = "http://example.org/"
-languageCode = "en-us"
-title = "My New Hugo Site"
+aseurl = "https://www.example.com/"
+title = "Vignesh Krishnamoorthy"
+author = "Vignesh Krishnamoorthy"
+canonifyurls = true
+languagecode = "en"
+theme = "black-and-light"
+
+pygmentsstyle       = "bw"
+pygmentscodefences  = true
+
+[params]
+  sitename = "Vignesh Krishnamoorthy"
+
+[[menu.main]]
+    name = "Home"
+    url = "/"
+[[menu.main]]
+    name = "Projects"
+    url  = "https://github.com/vignkri"
+[[menu.main]]
+    name = "Resume"
+    url  = "https://linkedin.com/in/vigneshkrishnamoorthy/"
+
