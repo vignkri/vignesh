@@ -100,6 +100,4 @@ You can find the code to the graphs and the general PAA code from my jupyter-not
 
 a) This code is a numpy driven trial rather than building it like most other answers using while or for-loops. In pandas using daily profiles, this becomes far easier as `DataFrame.resample('freq').mean()` can be used to do the same. As 24H profiles are quite easy to break down into 3H, 4H, 6H, 8H approximates. The original code which was rebuilt can be found at: [JMotif/jmotif-R](https://github.com/jMotif/jmotif-R)
 
-b) 
-
 [1] Eamonn Keogh, Kaushik Chakrabarti, Michael Pazzani, and Sharad Mehrotra. Dimensionality reduction for fast similarity search in large time series databases. Knowledge and information Systems, 3(3), 263-286, 2001.
