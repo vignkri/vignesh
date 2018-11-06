@@ -11,6 +11,7 @@ pygmentscodefences  = true
 [params]
   sitename = "Vignesh Krishnamoorthy"
   piwiktracking = "//analytics.vigneshkrishnamoorthy.me/piwik/"
+  fathomtracking = "//fathom.vigneshkrishnamoorthy.me/tracker.js"
 
 [[menu.main]]
     name = "Home"
