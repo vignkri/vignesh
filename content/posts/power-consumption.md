@@ -9,9 +9,7 @@ Recently, the apartment's energy meter was replaced with a digital one. By recen
 
 ### Getting the data
 
-The first step to accessing the data is quite straightforward. Once logged in to your Oersted account, you can look up your energy consumption where there is a giant download button on the graph element. You can of course filter the element to choose between *hourly, daily, monthly and yearly*. The data I chose was hourly due to the increased granularity it provides. Once donwloaded, the data is quite clean. 
-
-**Note**: The data is quite clean except for the decimal separator which is a comma as its common to Europe.
+The first step to accessing the data is quite straightforward. Once logged in to your Oersted account, you can look up your energy consumption where there is a giant download button on the graph element. You can of course filter the element to choose between *hourly, daily, monthly and yearly*. The data I chose was hourly due to the increased granularity it provides. Once downloaded, you might want to clean up the decimal operator.
 
 ### First steps
 
@@ -19,7 +17,7 @@ The first plot I plooted was the consumption pattern over every day plotted on t
 
 ![Hourly weekday power consumption](/images/04-hourly-weekday-power-consumption.png)
 
-There is a clear difference in how energy is consumed during weekends and weekdays. However, there are some outliers that are also interesting. Considering this is approximately 2-months of data, there are occasions when there is usage during the day (one / two lines) and similarly late in the evening. The best way to visualise the outliers is visualise how data behaves during weekdays and weekends. A simple assumption on the outliers are:
+There is a clear difference in how energy is consumed during weekends and weekdays. However, there are some outliers that are also interesting. Considering this is approximately 2-months of data, there are occasions when there is usage during the day (one / two lines) and similarly late in the evening. The best way to visualise the outliers is to see how data behaves during weekdays and weekends. A simple assumption on the outliers are:
 
 1. During weekdays, outliers are during the **middle of the workday**. 
 2. During weekends, the outliers are **early during the day** or during the **evening hours**.
@@ -35,3 +33,6 @@ This can be seen in the first figure for the weekday graphs above. The weekdays,
 ## Onwards
 
 The dataset actually helps to pose interesting questions on the behavior of users. It also provides a good amount of scaffolding to explore interesting ideas especially with the current energy transformation that is happening. My idea is to continue to explore the dataset. That will hopefully be the basis of my future blog posts.
+
+
+2018-11-14: *Clean up typos and grammatical errors.*
