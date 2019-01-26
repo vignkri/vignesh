@@ -1,6 +1,6 @@
 ---
 author: "Vignesh Krish"
-date: 2018-11-13
+date: 2019-01-26
 linktitle: digital representation of buildings and spaces
 title: Digital Representation of Buildings and Spaces
 ---
