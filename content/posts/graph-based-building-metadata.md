@@ -69,3 +69,7 @@ One similar representation of the schema discussed is the [Brick schema](https:/
 Aside from the technical differences of the underlying graph database architecture. The Brick schema looks at the primary use case of handling HVAC behavior within a building and control mechanisms for the inhabitants of the building. The idea here is to employ the same graph representation structure for additional layers for services based on buildings. 
 
 For example, a relevant usecase would be to structure the responses from the Residential Energy Consumption Survey [[3]](https://www.eia.gov/consumption/residential/). It gives a quick way to understand the underlying networks and answer questions which are useful in understanding consumption patterns in the network of answers. In the parallel layer, the sensor architecture can be used to define the consumption results in the system. And in another layer store historical performance characteristics of the building and the units.
+
+## From here ...
+
+An unified method of handling buildings will accelerate certain aspects of how we integrate technology in everyday life. It not only becomes easier for implementing digital tools but also revisit older buildings with accelerated decision making to make them efficient and more usable. However, the ideas here are incomplete, and will benefit from a critical eye and a more robust discussion on not only implementation but also the concepts therein.
