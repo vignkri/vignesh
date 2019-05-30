@@ -5,7 +5,7 @@ linktitle: Symbolic Aggregate Approximation
 title: Symbolic Aggregate Approximation
 ---
 
-In my previous post about [Piecewise Aggregate Approximation](/posts/piecewise-aggregate-approx.md) (PAA) I discussed about the algorithm. One of the extensions of PAA leads to Symbolic Aggregate Approximation (SAX). In literature, SAX falls under a group of representation systems which are data-adaptive for time-series and are symbolic. As the name suggests, the algorithm takes a time series and represents it in terms of symbols that are approximate representations of the original time series.
+In my previous post about [Piecewise Aggregate Approximation](/posts/piecewise-aggregate-approx) (PAA) I discussed about the algorithm. One of the extensions of PAA leads to Symbolic Aggregate Approximation (SAX). In literature, SAX falls under a group of representation systems which are data-adaptive for time-series and are symbolic. As the name suggests, the algorithm takes a time series and represents it in terms of symbols that are approximate representations of the original time series.
 
 SAX takes a time series of arbitrary length, \\(n\\), and reduces it to a string of arbitrary length, \\(w\\). The length of the string is \\(w < n\\) and typically it is such that \\(w \ll n\\). The process of SAX first requires that the string is first transformed using the PAA representation which is then symbolised by SAX to form a symbolic representation.
 
