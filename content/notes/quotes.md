@@ -2,6 +2,7 @@
 date: 2019-11-04
 linktitle: snippets 
 title: Notes and Highlights
+tags: ['snippets', 'clips']
 ---
 
 **The Dunciad** by Alexander Pope

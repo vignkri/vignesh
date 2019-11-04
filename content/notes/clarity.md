@@ -2,6 +2,7 @@
 date: 2019-10-30
 linktitle: clarity 
 title: Getting Clarity
+tags: 'note'
 ---
 
 - Focus is important. There are some things that you can do really well and somethings you can not. Learn to distribute your workload so that you can focus on the things that matter.

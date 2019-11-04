@@ -2,6 +2,7 @@
 date: 2019-10-30
 linktitle: python
 title: Programming Notes
+tags: ['programming', 'python']
 ---
 
 **20191104.1** Pandas Extract vs. Looping with Beautiful Soup
