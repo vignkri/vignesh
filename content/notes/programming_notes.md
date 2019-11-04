@@ -14,7 +14,7 @@ The screenshots show the difference in speeds between two methods for the follow
 <TABLE>
     <TR><TD><B>Close cause</B></TD><TD>Normal Release (0)</TD></TR>
     <TR><TD><B>IMSI</B></TD> <TD>272023118178778</TD></TR>
-    <TR> <TD><B>Device IP</B></TD> <TD> 10.2.82.222</TD></TR>
+    <TR><TD><B>Device IP</B></TD> <TD> 10.2.82.222</TD></TR>
     <TR><TD><B>SGSN/SGW</B></TD> <TD> <SPAN TITLE= "80.251.193.210 ">Hi3G Denmark</SPAN></TD></TR>
     <TR><TD><B>APN</B></TD> <TD> <SPAN TITLE= "Low Bandwidth APN. ">3iot.com</SPAN></TD></TR>
     <TR><TD><B>Bytes</B></TD><TD>1214 Up ,270 Down</TD></TR>
