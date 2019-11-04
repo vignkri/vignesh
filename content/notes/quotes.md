@@ -4,6 +4,24 @@ linktitle: Quotes
 title: Collection of Quotes and Aphorisms
 ---
 
+**The Dunciad** - Alexander Pope
+
+```
+Nor public flame, nor private, dares to shine;
+
+Nor human spark is left, nor glimpse divine!
+
+Lo! thy dread empire, Chaos! is restored;
+
+Light dies before thy uncreating word:
+
+Thy hand, great Anarch! lets the curtain fall;
+
+And universal darkness buries all.
+```
+
+**Quotes**
+
 Crambe bis positum mors est | "Cabbage served twice is death."  - Greek Proverb
 
 "It is said that if you know your enemies and know yourself, you will not be imperiled in a hundred battles; if you do not know your enemies but do know yourself, you will win one and lose one; if you do not know your enemies nor yourself, you will be imperiled in every single battle." - Sun Tzu
