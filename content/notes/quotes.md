@@ -1,10 +1,10 @@
 ---
-date: 2019-10-30
-linktitle: Quotes 
-title: Collection of Quotes and Aphorisms
+date: 2019-11-04
+linktitle: snippets 
+title: Notes and Highlights
 ---
 
-**The Dunciad** - Alexander Pope
+**The Dunciad** by Alexander Pope
 
 ```
 Nor public flame, nor private, dares to shine;
@@ -21,8 +21,6 @@ And universal darkness buries all.
 ```
 
 **Quotes**
-
-Crambe bis positum mors est | "Cabbage served twice is death."  - Greek Proverb
 
 "It is said that if you know your enemies and know yourself, you will not be imperiled in a hundred battles; if you do not know your enemies but do know yourself, you will win one and lose one; if you do not know your enemies nor yourself, you will be imperiled in every single battle." - Sun Tzu
 
