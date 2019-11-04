@@ -23,7 +23,7 @@ The screenshots show the difference in speeds between two methods for the follow
 </TABLE>
 ```
 
-The beautiful soup comman is as follows:
+The beautiful soup method is as follows:
 
 ```{Python}
 find_row_by_indexing = bs(x).findAll("td")[11].text
@@ -32,7 +32,7 @@ find_row_by_indexing = bs(x).findAll("td")[11].text
 
 ![](/images/notes/beautiful_soup_timeit_01.png)
 
-Against the pandas extract method which is way faster than initialising BeautifulSoup4 every single time. The extract is better as it extracts the required data faster than the above Beautiful soup code. Additionally, the groups can be customised easily and assigned to columns nicely. 
+Against the pandas extract method which is way faster than initialising BeautifulSoup every single time. The extract is better as it extracts the required data faster than the above Beautiful soup code. Additionally, the groups can be customised easily and assigned to columns nicely. 
 
 ```{Python}
 regex_phrase = r'(\d*) (Up) ,(\d*) (Down)'
