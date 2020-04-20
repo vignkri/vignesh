@@ -22,4 +22,6 @@ pygmentscodefences  = true
 [[menu.main]]
     name = "Resume"
     url  = "https://linkedin.com/in/vigneshkrishnamoorthy/"
-
+[[menu.main]]
+    name = "Notes"
+    url = "/notes"
