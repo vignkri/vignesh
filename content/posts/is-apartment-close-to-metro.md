@@ -5,8 +5,6 @@ linktitle: apartment-nearness-metro
 title: Is an apartment close to a metro? 
 ---
 
-**Note** This post is also an exmaple in temporarily live posts. I'll be augmenting this post with additional images as I can make them available.
-
 Lately, the real-estate market in Copenhagen has been very interesting for me.
 
 As a data scientist, I'm very much interested in making my life easier in the world of structured data. It is fun to use apps, but there are some ways you may be better off to use a nice-ol' structured dataset to get things done than an user-interface.
