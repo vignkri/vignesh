@@ -96,7 +96,11 @@ Now that I had the data in my hand, I had to compute a metric. I had a structure
 
 In this case my optimisation is simple: `D_a < X < D_b` where `X` is the distance of a property to the nearest metro location and `D_a` and `D_b` are the boundaries I am happy with. The above formula points to the type of interaction I needed with my data.
 
+![Generated using MapBox](/images/metro-isochrone-bike-15m-increments.png)
+
 **In an ideal world, I would love to have a visual map, where I could select a location and an _[isochrone](https://en.wikipedia.org/wiki/Isochrone_map)_ would pop up to show how far my locations are from points of interest.**
+
+In the above example, you can see the isochrone of how far one could get on a bicycle in 15-minute increments. Each shaded and bounded region is the distance that can be covered in cumulatives of 15-minutes. It would've worked perfectly, but unfortunately, that is not something easy to build. 
 
 But, that is an expensive thing to build. So, the laziest way out is to use a standard formula that is not _inaccurate_ nor _imprecise_. In this case the (Haversine distance)[https://en.wikipedia.org/wiki/Haversine_formula] suits my purposes by allowing me to be fast, accurate and precise enough to help me with the filtering. 
 
