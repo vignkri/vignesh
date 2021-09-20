@@ -2,7 +2,7 @@
 author: "Vignesh Krish"
 date: 2021-04-05
 linktitle: preliminary experiments with Udoo Bolt
-title: Udoo Bolt - Experiments Part 1.
+title: Home Electronics Experiment - Part 1.
 ---
 
 I've had the Udoo Bolt ever since the Kickstarter campaign of 2019(?), I forget. It is a nifty little Single-Board-Computer (SBC) that packs a Ryzen Embedded V1000-series CPU into a nice chassis with some nice perks such as GPIO ports and USB-C for powering and video-output. You can find the specifications [here](https://www.udoo.org/discover-the-udoo-bolt/).
