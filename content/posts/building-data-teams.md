@@ -6,7 +6,7 @@ title: Building Foundations of data teams - Pt. 1
 ---
 Building the foundations of a data team and the data team itself is a struggle.
 
-Complexity seems to be ever increasing and job profiles keep changing rapidly as data and its usage explodes all around us [1]. There are terms such as data-quality, data-lineage, and observability that are used. Then, there are profiles a company needs to hire within its data-team: data scientist, data analyst, data engineer and maybe in the future, an analytics engineers [2].
+Complexity seems to be ever increasing and job profiles keep changing rapidly as data and its usage explodes all [around us](http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg). There are terms such as data-quality, data-lineage, and observability that are used. Then, there are profiles a company needs to hire within its data-team: data scientist, data analyst, data engineer and maybe in the future, an [analytics engineers](https://coalesce.getdbt.com/talks/dont-hire-a-data-engineer-yet/).
 
 {{< twitter user="ElenaRusAthletx" id="1483651998335614978" >}}
 
@@ -18,7 +18,7 @@ By the end of this post, I hope to provide clarity on what to focus on when buil
 
 | What is a solid data team to start with? What is needed within that team to improve the quality of life for the company?
 
-The secondary outcome, I believe to naturally arise out from this premise is the company structure of how it could work [3]. This blog post is for small teams, where to start, how to proceed with building a team over time. One that is empowered to answer hard questions by looking at internal data and data produced through actions taking place within the company.
+The secondary outcome, I believe to naturally arise out from this premise is the company structure of [how it could work](https://locallyoptimistic.com/post/the-next-big-challenge-for-data-is-organizational/). This blog post is for small teams, where to start, how to proceed with building a team over time. One that is empowered to answer hard questions by looking at internal data and data produced through actions taking place within the company.
 
 In order to handle this, the basic process in approaching such a problem would be:
 Ask questions that are currently points of pain
@@ -53,7 +53,7 @@ These are different questions but they have an answer within the data. And funni
 
 The value derived by asking these questions is intrinsic to what the company is trying to solve at that stage: are we looking to improve customer retention, improve the sales process, or just make a more reliable product. 
 
-These questions pave the way to the next logical series of actions. In order to answer these questions, we need a reliable process where P1 can get the data, process the data and build analysis and visualisations and discussions within the company. This process, of extraction, loading and transformation (ELT) and sometimes ETL is the basics of what is now called popularly the Modern Data Stack [4].
+These questions pave the way to the next logical series of actions. In order to answer these questions, we need a reliable process where P1 can get the data, process the data and build analysis and visualisations and discussions within the company. This process, of extraction, loading and transformation (ELT) and sometimes ETL is the basics of what is now called popularly the [Modern Data Stack](https://www.analytics8.com/blog/what-is-the-modern-data-stack-and-why-should-you-be-excited-about-it/#).
 
 ## The single person team…
 
@@ -91,14 +91,4 @@ Trends are strong tools that can help us reinforce that we are doing the right t
 
 At this point, there is a strong foundation in a data team and a cultural support that allows the data team to ask questions and help in improving internal decision making. This foundation would lead into specific operational actions that data teams of slightly higher complexity need to implement: data lineage, data quality verifications, automated analytics, and feature stores. These are topics for another rainy day.
 
-Thanks to Rohit Sharma (LinkedIn) and Morten Badensoe (LinkedIn) for discussions and help in formulating and refining this blog post.
-
-## References
-
-[1] The sheer size and choices available to do any particular thing is crazy: http://46eybw2v1nh52oe80d3bi91u-wpengine.netdna-ssl.com/wp-content/uploads/2021/12/Data-and-AI-Landscape-2021-v3-small.jpg
-
-[2] Stefania Olafsdottir, Don’t hire a data engineer yet, Coalesce 2021:  https://coalesce.getdbt.com/talks/dont-hire-a-data-engineer-yet/
-
-[3] LocallyOptimistic - The next big challenge for data is organization: https://locallyoptimistic.com/post/the-next-big-challenge-for-data-is-organizational/
-
-[4] What is the modern data stack: https://www.analytics8.com/blog/what-is-the-modern-data-stack-and-why-should-you-be-excited-about-it/#
+Thanks to [Rohit Sharma](https://www.linkedin.com/in/r0hit/) and [Morten Badensoe](https://www.linkedin.com/in/mortenbadensoe/) for the discussions that helped in formulating and refining this blog post.
