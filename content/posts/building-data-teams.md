@@ -1,6 +1,6 @@
 ---
 author: "Vignesh Krish"
-date: 2022-02-06
+date: 2022-02-10
 linktitle: foundations of data teams
 title: Building Foundations of data teams - Pt. 1
 ---
