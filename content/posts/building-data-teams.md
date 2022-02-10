@@ -2,7 +2,7 @@
 author: "Vignesh Krish"
 date: 2022-02-10
 linktitle: foundations of data teams
-title: Building Foundations of data teams - Pt. 1
+title: Building Foundations of data teams
 ---
 Building the foundations of a data team and the data team itself is a struggle.
 
